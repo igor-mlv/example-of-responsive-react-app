@@ -6,6 +6,10 @@
 
 React portfolio — seamless design, showcasing projects and skills.
 
+## Website available online:
+
+https://igor-mlv.github.io/example-of-responsive-react-app/
+
 
 ## Clone the Repository:
 
