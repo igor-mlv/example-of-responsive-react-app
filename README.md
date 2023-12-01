@@ -40,3 +40,5 @@ Vite
 Feel free to contribute, report issues, or suggest improvements!
 
 Happy coding! 🚀
+
+Design from https://www.jsmastery.pro
